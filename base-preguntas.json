@@ -1,0 +1,42 @@
+[
+    {
+        "seleccion": "",
+        "pregunta": "¿A quien le hizo este gol?",
+        "respuesta": "Serbia y Montenegro",
+        "incorrecta1": "Croacia",
+        "incorrecta2": "Dinamarca",
+        "incorrecta3": "Francia",
+        "imagen": "https://www.ole.com.ar/images/2020/11/06/O50EksSQZ_720x0__1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "seleccion": "",
+        "pregunta": "¿A quien le hizo este gol?",
+        "respuesta": "Uruguay",
+        "incorrecta1": "Chile",
+        "incorrecta2": "Costa Rica",
+        "incorrecta3": "Holanda",
+        "imagen": "https://www.ole.com.ar/images/2020/11/06/w6VYEgPgh_720x0__1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "seleccion": "",
+        "pregunta": "¿A quien le hizo este gol?",
+        "respuesta": "Venezuela",
+        "incorrecta1": "Bolivia",
+        "incorrecta2": "Peru",
+        "incorrecta3": "Estados Unidos",
+        "imagen": "https://www.ole.com.ar/images/2019/03/27/wit9b39nV_720x0__1.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "seleccion": "",
+        "pregunta": "¿A quien le hizo este gol?",
+        "respuesta": "Uruguay",
+        "incorrecta1": "Alemania",
+        "incorrecta2": "Portugal",
+        "incorrecta3": "Chile",
+        "imagen": "https://www.ole.com.ar/images/2020/11/06/nwEomLAEQ_720x0__1.jpg",
+        "objectFit": "cover"
+    }
+]
